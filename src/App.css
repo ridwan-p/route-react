@@ -17,6 +17,20 @@
   color: white;
 }
 
-.App-link {
+.App-link,
+a {
   color: #09d3ac;
+  text-decoration: none;
 }
+
+input {
+  padding: .7em;
+  border-radius: .5em;
+  border: 1px solid #282c34;
+}
+
+button {
+  padding: .7em;
+  border-radius: .5em;
+}
+
